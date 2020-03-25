@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+div.container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url("https://www.hdwallpaperslife.com/wp-content/uploads/2019/01/happy_friends_beach_scene_4k_5k.jpg");
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    text-align: center;
+    color: white;
+    margin: 0;
+    
+}
+
+p.header {
+    font-family: "Arial";
+    font-size: 30px;
+    font-style: italic;
+    
+}
+
+p.no {
+    font-size: 60vmin;
+    font-family: "Arial";
+    font-weight: bold;
+    line-height: 110%;
+}
