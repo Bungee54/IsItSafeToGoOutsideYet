@@ -10,8 +10,10 @@ div.container {
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url("https://www.hdwallpaperslife.com/wp-content/uploads/2019/01/happy_friends_beach_scene_4k_5k.jpg");
+    /* background-image: url("https://www.hdwallpaperslife.com/wp-content/uploads/2019/01/happy_friends_beach_scene_4k_5k.jpg"); */
+    background-image: url("https://media1.tenor.com/images/67116b66c10ce156f252966bee719951/tenor.gif?itemid=14048659");
     background-size: cover;
+    background-position: center;
 
     display: flex;
     justify-content: center;
@@ -23,13 +25,6 @@ p {
     text-align: center;
     color: white;
     margin: 0;
-    
-}
-
-p.header {
-    font-family: "Arial";
-    font-size: 30px;
-    font-style: italic;
     
 }
 
